@@ -1,2 +1,4 @@
 File 2
 This is other change of File 2
+
+New changes done in file 2
